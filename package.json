@@ -1,0 +1,19 @@
+{
+  "name": "scootscoot",
+  "version": "1.0.0",
+  "description": "map of scooters in washington dc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelguild13/scootscoot.git"
+  },
+  "author": "michael guild (michaelguild13@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelguild13/scootscoot/issues"
+  },
+  "homepage": "https://github.com/michaelguild13/scootscoot#readme"
+}
